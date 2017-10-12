@@ -1,5 +1,6 @@
 {
   "name": "superapp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "c28243ff",
+  "type": "ionic-angular",
+  "integrations": {}
 }
